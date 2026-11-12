@@ -75,6 +75,17 @@ See the [Atrial Fibrillation Monitoring Ontology (AFMO)](https://mbithenzomo.git
 
 - **1.0:** first release. The PHMO was abstracted from the Atrial Fibrillation Monitoring Ontology (AFMO), which was originally developed as a single application ontology. General personal health monitoring concepts were moved from the `afmo` namespace to the `phmo` namespace.
 
+## Authorship and attributions
+
+### Author
+
+Mbithe Nzomo
+
+Affiliations:
+*University of Cape Town ([UCT](https://uct.ac.za/))*;
+*Adaptive and Cognitive Systems Lab at the Centre for Artificial Intelligence Research ([ACS Lab at CAIR](https://www.cair.org.za/group/1))*;
+*Artificial Intelligence Research Unit ([AIRU](https://uct.ac.za/))*
+
 ## How to cite
 
 If you use the PHMO, please cite it as:
