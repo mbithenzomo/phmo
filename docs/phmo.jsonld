@@ -3000,7 +3000,7 @@
     "@value" : "The Personal Health Monitoring Ontology (PHMO) is a general ontology for personal health monitoring systems. It contains concepts reused from the following ontologies:\n\n- Sensor, Observation, Sample, and Actuator (SOSA) Ontology\n- Smart Applications REFerence (SAREF) Core Ontology\n- SAREF4Wear Ontology\n- SAREF4EHAW (eHealth and Ageing Well) Ontology\n- Evidence and Conclusion Ontology (ECO)\n- Medical Action Ontology (MAxO)\n- FRBR-aligned Bibliographic Ontology (FaBiO)\n- Friend of a Friend (FOAF) Ontology\n- Data Catalog Vocabulary (DCAT)\n- Explanation Ontology (EO) and Explanation Patterns Ontology (EP)\n\nMetadata terms are reused from the Dublin Core Metadata Initiative (DCMI) Metadata Terms and the PRISM Basic Metadata Specification.\n\nHealth domain concepts have been manually cross-referenced to concepts from the Unified Medical Language System (UMLS) metathesaurus, which maps to several medical vocabularies and terminologies, including:\n\n- SNOMED CT (US)\n- Medical Subject Headings (MeSH) Thesaurus\n- National Cancer Institute (NCI) Thesaurus\n- MedlinePlus"
   } ],
   "http://www.w3.org/2002/07/owl#versionIRI" : [ {
-    "@id" : "http://purl.org/phmo/1.0"
+    "@id" : "http://purl.org/phmo/v1.0"
   } ],
   "http://www.w3.org/2002/07/owl#versionInfo" : [ {
     "@value" : "1.0"

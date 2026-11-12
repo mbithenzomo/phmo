@@ -28,7 +28,7 @@
     <dcterms:license>https://creativecommons.org/licenses/by/4.0/</dcterms:license>
     <dc:creator>Mbithe Nzomo</dc:creator>
     <dc:title>Personal Health Monitoring Ontology (PHMO)</dc:title>
-    <owl:versionIRI rdf:resource="http://purl.org/phmo/1.0"/>
+    <owl:versionIRI rdf:resource="http://purl.org/phmo/v1.0"/>
     <owl:versionInfo>1.0</owl:versionInfo>
     <rdfs:comment>The Personal Health Monitoring Ontology (PHMO) is a general ontology for personal health monitoring systems. It contains concepts reused from the following ontologies:
 

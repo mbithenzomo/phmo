@@ -7,7 +7,7 @@
 @base <http://purl.org/phmo#> .
 
 <http://purl.org/phmo> rdf:type owl:Ontology ;
-                        owl:versionIRI <http://purl.org/phmo/1.0> ;
+                        owl:versionIRI <http://purl.org/phmo/v1.0> ;
                         <http://purl.org/dc/elements/1.1/creator> "Mbithe Nzomo" ;
                         <http://purl.org/dc/elements/1.1/title> "Personal Health Monitoring Ontology (PHMO)" ;
                         <http://purl.org/dc/terms/license> "https://creativecommons.org/licenses/by/4.0/" ;

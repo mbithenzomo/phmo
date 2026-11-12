@@ -19,7 +19,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:sw-vocab-status="http://www.w3.org/2003/06/sw-vocab-status/">
     <owl:Ontology rdf:about="http://purl.org/phmo">
-        <owl:versionIRI rdf:resource="http://purl.org/phmo/1.0"/>
+        <owl:versionIRI rdf:resource="http://purl.org/phmo/v1.0"/>
         <dc:creator>Mbithe Nzomo</dc:creator>
         <dc:title>Personal Health Monitoring Ontology (PHMO)</dc:title>
         <terms:license>https://creativecommons.org/licenses/by/4.0/</terms:license>

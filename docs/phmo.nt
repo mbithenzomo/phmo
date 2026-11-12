@@ -1,5 +1,5 @@
 <http://purl.org/phmo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
-<http://purl.org/phmo> <http://www.w3.org/2002/07/owl#versionIRI> <http://purl.org/phmo/1.0> .
+<http://purl.org/phmo> <http://www.w3.org/2002/07/owl#versionIRI> <http://purl.org/phmo/v1.0> .
 <http://purl.org/phmo> <http://purl.org/dc/elements/1.1/creator> "Mbithe Nzomo" .
 <http://purl.org/phmo> <http://purl.org/dc/elements/1.1/title> "Personal Health Monitoring Ontology (PHMO)" .
 <http://purl.org/phmo> <http://purl.org/dc/terms/license> "https://creativecommons.org/licenses/by/4.0/" .
