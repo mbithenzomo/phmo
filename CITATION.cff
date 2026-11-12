@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use the PHMO, please cite it as below."
+title: "Personal Health Monitoring Ontology (PHMO)"
+type: software
+authors:
+  - family-names: Nzomo
+    given-names: Mbithe
+version: "1.0"
+date-released: 2026-11-12
+url: "http://purl.org/phmo"
+repository-code: "https://github.com/mbithenzomo/phmo"
+license: CC-BY-4.0
